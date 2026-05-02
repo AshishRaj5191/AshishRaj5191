@@ -1,4 +1,4 @@
-## Hi I'm Ashish
+# Hi I'm Ashish
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashish-raj-9b1b40358) 
