@@ -26,15 +26,15 @@
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
-## 📊 LeetCode Stats:
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/user6854JN?theme=dark&ext=activity" alt="Ashish's LeetCode Stats" />
-</p>
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AshishRaj5191&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AshishRaj5191&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshishRaj5191&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 LeetCode Stats:
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/user6854JN?theme=dark&ext=activity" alt="Ashish's LeetCode Stats" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshishRaj5191&theme=radical&no-frame=true&no-bg=false&margin-w=4)
