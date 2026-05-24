@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Ashish👋✨</h1>
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-raj-9b1b40358) 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/Ashish_Raj_5191)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashishraj5191) 
@@ -11,11 +11,16 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashish.ara2017@gmail.com)
 
 ## 🏆 GSSoC 2026 Journey
-<img width="400" height="400" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/c1445923-4299-43fd-8ba2-ba605e1b27f4" />
-<img width="400" height="400" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/527f1682-38ac-4859-b04b-f9f272bb16b8" />
+<img width="190" height="190" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/527f1682-38ac-4859-b04b-f9f272bb16b8" />
+<img width="190" height="190" alt="ai" src="https://github.com/user-attachments/assets/b2e622fa-be39-491d-9ae4-991fc48bb689" />
+<img width="190" height="190" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/8216a747-5e0f-4bcd-8ca0-bbb72c3e787a" />
+<img width="190" height="190" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/b7b6f625-2959-4aa5-a02c-c6c795fb7553" />
+<img width="190" height="190" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/f451c3a8-9a1b-4bb7-b8f5-6a6c683cd660" />
 
 
-## 💻 Tech Stack:
+
+
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -31,12 +36,12 @@
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=AshishRaj5191&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AshishRaj5191&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshishRaj5191&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 LeetCode Stats:
+## 📊 LeetCode Stats
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/user6854JN?theme=dark&ext=activity" alt="Ashish's LeetCode Stats" />
 </p>
