@@ -11,13 +11,14 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashish.ara2017@gmail.com)
 
 ## 🏆 GSSoC 2026 Journey
-<img width="190" height="190" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/527f1682-38ac-4859-b04b-f9f272bb16b8" />
+<img width="190" height="190" alt="contributor" src="https://github.com/user-attachments/assets/159521ad-0ae2-4089-b7fc-d2ca16fbdf24" />
 <img width="190" height="190" alt="ai" src="https://github.com/user-attachments/assets/b2e622fa-be39-491d-9ae4-991fc48bb689" />
+<img width="190" height="190" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/9b0a7d1d-6a18-4c16-bfb0-739f420c4b2d" />
+<img width="190" height="190" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/527f1682-38ac-4859-b04b-f9f272bb16b8" />
 <img width="190" height="190" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/8216a747-5e0f-4bcd-8ca0-bbb72c3e787a" />
 <img width="190" height="190" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/b7b6f625-2959-4aa5-a02c-c6c795fb7553" />
 <img width="190" height="190" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/f451c3a8-9a1b-4bb7-b8f5-6a6c683cd660" />
-
-
+<img width="190" height="190" alt="gssoc-badge-discord_verified" src="https://github.com/user-attachments/assets/4c79e7c5-80ef-41f2-bd48-0c739115154b" />
 
 
 ## 💻 Tech Stack
