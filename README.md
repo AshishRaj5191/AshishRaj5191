@@ -8,7 +8,12 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ash519187) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ashish-Raj-566) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22024147) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashish.ara2017@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashish.ara2017@gmail.com)
+
+## 🏆 GSSoC 2026 Journey
+<img width="400" height="400" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/c1445923-4299-43fd-8ba2-ba605e1b27f4" />
+<img width="400" height="400" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/527f1682-38ac-4859-b04b-f9f272bb16b8" />
+
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
