@@ -18,7 +18,6 @@
 <img width="190" height="190" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/8216a747-5e0f-4bcd-8ca0-bbb72c3e787a" />
 <img width="190" height="190" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/b7b6f625-2959-4aa5-a02c-c6c795fb7553" />
 <img width="190" height="190" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/f451c3a8-9a1b-4bb7-b8f5-6a6c683cd660" />
-<img width="190" height="190" alt="gssoc-badge-discord_verified" src="https://github.com/user-attachments/assets/4c79e7c5-80ef-41f2-bd48-0c739115154b" />
 
 
 ## 💻 Tech Stack
