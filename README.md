@@ -11,7 +11,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashish.ara2017@gmail.com)
 
 ## 🏆 GSSoC 2026 Journey
-<img width="190" height="190" alt="contributor" src="https://github.com/user-attachments/assets/159521ad-0ae2-4089-b7fc-d2ca16fbdf24" />
+
 <img width="190" height="190" alt="ai" src="https://github.com/user-attachments/assets/b2e622fa-be39-491d-9ae4-991fc48bb689" />
 <img width="190" height="190" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/9b0a7d1d-6a18-4c16-bfb0-739f420c4b2d" />
 <img width="190" height="190" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/527f1682-38ac-4859-b04b-f9f272bb16b8" />
